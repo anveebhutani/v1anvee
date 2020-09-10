@@ -1,2 +1,1 @@
-# vidazhang.com
-My portfolio 
+Code for my personal portfolio website :)
